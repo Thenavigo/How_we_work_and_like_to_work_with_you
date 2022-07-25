@@ -49,3 +49,18 @@ Things I believe to be true, that are the foundation of us working together.
 
 <br />
 
+<b>Default to action</b>. Often it’s best to just do it. Most decisions are reversible, so it’s better to see how things work out instead of overthinking them.
+
+<br />
+
+<b>Self-reflection</b>. We can’t improve if we remain ignorant of our weak spots. We should all regularly take time to reflect on why (exactly) we made a certain decision, why (exactly) we reacted in a certain way.
+
+<br />
+
+<b>Attention to detail</b>. Spot something that could be improved? Say something, help fix it. Small improvements compound over time.
+
+<br />
+
+<b>Empathy</b>. Not just towards those who you work with, but anybody. We’re all humans, and often times, you see things more clearly when you take someone else’s perspective.
+
+<br />
