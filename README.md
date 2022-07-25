@@ -77,4 +77,26 @@ Things I believe to be true, that are the foundation of us working together.
 
 <b>Don’t give clues</b>: I sometimes miss clues, many people do. Don’t give clues. Tell me what you need.
 
+<br />
 
+<b>Use the power of async</b>: An important update can be sent via email. Feedback can be gathered in a shared doc. Questions can be answered in a direct message. Decisions can be reached without everyone in the same room. Async is not always best, but it’s a good default. It gives people the freedom to choose the right moment, and the time they need, to engage.
+
+<br />
+
+<b>Meetings done right</b>: If you invite me to a meeting, I need to understand why it’s valuable that I’ll be there. I like meetings that are respectful of everyone’s time and contributions.
+
+<br />
+
+<b>Ask for help</b>: I love giving input, but only if I know it can still make a difference. Tell me about an idea, show me a rough draft, ask for my opinion on work in progress. It’s frustrating if we identify room for improvement, but there’s no time left to act on it.
+
+<br />
+
+<b>Let’s have fun</b>. We’re not here for fun, but that doesn’t mean we shouldn’t have some.
+
+<br />
+
+## How to discuss and argue
+
+In the moment, things can get heated quickly, so it’s important to keep some guiding principles in mind. I try to stick to these:
+
+- I start with the assumption that we are arguing because we all want to solve the same issue, with the best intentions in mind. 
