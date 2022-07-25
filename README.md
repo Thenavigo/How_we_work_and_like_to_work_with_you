@@ -5,3 +5,7 @@
 
 
 > A user guide for Thenavigo.
+
+## About this document
+
+If you start working with a new person, wouldn’t it be nice if you had some sort of user guide that gives you a basic understanding of how to work with them? This document is exactly that. It captures my guiding principles, how I work as a human and what I value in others.
