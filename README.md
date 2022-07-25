@@ -27,3 +27,14 @@ Things I believe to be true, that are the foundation of us working together.
 <br />
 
 <b>We’re better together</b>: We wouldn’t be here, working together, if one of us could do it on their own. We bring different skills and viewpoints to the table, and it’s our job to make the best use of all of them.
+
+
+<br />
+
+<b>We have the same goal</b>: We can’t be successful together if we’re aiming for different outcomes. If one of us feels our goals or motives aren’t aligned, we need to talk.
+
+<br />
+
+<b>We support one another</b>: If there is anything that prevents you from doing your best work, let me know. If it’s something related to me, I will try to fix it. If it’s beyond us, we will try and find a solution together. If it’s a personal matter, I will try to cover for you. That also means…
+
+<br />
