@@ -122,3 +122,32 @@ Let’s be honest: Feedback is difficult. I often feel uncomfortable giving it, 
 
 - If you don’t receive feedback when you’d like it, ask for it. 
 
+- I might sometimes give positive feedback to keep harmony. If you catch me doing this, call me out. (That doesn’t mean you need to be suspicious of every positive feedback — you’ll know the difference)
+
+
+## There’s life beyond work
+
+Let’s agree that work isn’t everything, and that we can only be our best selves at work when we take care of ourselves and our loved ones. Our work is important to us. But there’s life beyond work, we have our obligations and the occasional unexpected challenge. And sometimes, we need to prioritise those.
+
+I don’t advocate for strict boundaries, but flexibility that goes both ways. I will always go the extra mile when it’s most needed, and hope you will, too. On the other hand, that means we trust each other when someone needs to leave early or take a day off.
+
+The most important thing is to be transparent and upfront about this. If I won’t be available, I will let those that might be affected know.
+
+
+## Also good to know
+
+I’m an introvert. You might not always notice it, in fact, people often react surprised when I tell them that I am. It means that I’m most comfortable in smaller settings with people I know well. Prolonged exposure to humans is exhausting for me. Especially in larger groups, I won’t engage as much as I would in smaller ones. It also means I’m sometimes slow in expressing what I really feel.
+
+Related to the above, I sometimes write messages when we should be talking instead. I know that’s not ideal, I’m working on it. In the meantime, please point it out to me. You’ll know when.
+
+I like to work with my headphones on. That means please don’t tap on my shoulder and interrupt me, but you can always message me, and usually, I’ll find time shortly after.
+
+
+This document is inspired by Michael Lopp’s How to [Rands](https://randsinrepose.com/archives/how-to-rands/), and draws heavily on Niklaus Gerber’s [Readme](https://niklausgerber.com/#readme). Like everything on my website, you can use and adapt it for your own purposes, as long as you share it under the same license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Network Solutions Engineer, a product person by conviction, and a generalist at heart. I love complex issues and helping people navigate them.
+
+[@patrickbiyaga](https://twitter.com/patrickbiyaga)
+
+[contact@thenavigo.com](contact@thenavigo.com)
