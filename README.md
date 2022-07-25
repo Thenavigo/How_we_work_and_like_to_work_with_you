@@ -17,3 +17,9 @@ Inevitably, I will sometimes fail to live up to my own ideals. I will always try
 
 This is a living document, incomplete and imperfect. I will update it regularly and would [appreciate your feedback](https://github.com/Thenavigo/Feedback)
 
+
+## My premises
+
+Things I believe to be true, that are the foundation of us working together.
+
+<b>We trust each other</b>: Whatever you do, I will assume good intent. I trust that you know what you’re doing and that you will let me know when you need my help. I hope you treat me the same way.
