@@ -99,4 +99,26 @@ Things I believe to be true, that are the foundation of us working together.
 
 In the moment, things can get heated quickly, so it’s important to keep some guiding principles in mind. I try to stick to these:
 
-- I start with the assumption that we are arguing because we all want to solve the same issue, with the best intentions in mind. 
+- I try to truly understand a position before arguing against it. Ask questions. Repeat back what I understood to be their point. 
+
+- I find it helpful to state how (un)certain I am when I make a statement. Asking «How sure are you?» is better than asking «Are you sure?» 
+
+- I try to always be mindful whether the people having a discussion the right people to have this discussion. Is someone missing? 
+
+- Know when to end a discussion. Sometimes a decision needs to be made. Sometimes additional information needs to be gathered to continue the discussion. Always end a discussion with everyone knowing what will happen next.
+
+- When a discussion went off the rails, let’s follow-up later to talk about what went wrong and what you can learn from it.
+
+
+## How to give feedback 
+
+Let’s be honest: Feedback is difficult. I often feel uncomfortable giving it, and might get defensive when I receive negative feedback. Tough luck. There’s no way around it: We only grow from regular, candid feedback. So it’s very important to me. Since I’m not naturally good at it, I use a few guiding principles to help me be better at giving and receiving feedback:
+
+- Before giving you feedback, I will ask if you’re ready to receive feedback. Please do the same with me.
+
+- Feedback is best when it’s candid and direct, and when it focuses on how the recipient can grow. Let’s give each other feedback on how we give feedback, and get better at it. 
+
+- I strive to offer feedback immediately after I’ve noticed something I want to give feedback on (unless I don’t find the right words straight away, which happens) 
+
+- If you don’t receive feedback when you’d like it, ask for it. 
+
