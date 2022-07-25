@@ -45,7 +45,7 @@ Things I believe to be true, that are the foundation of us working together.
 
 ## What I value
 
-<b>Context-awareness<b>. Nothing that we do happens in a vacuum. In fact, making the right decisions is foremost about understanding the context we’re operating in. This can be anything from interpersonal to organisation-wide, from understanding customer needs to market forces and policy constraints.
+<b>Context-awareness</b>. Nothing that we do happens in a vacuum. In fact, making the right decisions is foremost about understanding the context we’re operating in. This can be anything from interpersonal to organisation-wide, from understanding customer needs to market forces and policy constraints.
 
 <br />
 
