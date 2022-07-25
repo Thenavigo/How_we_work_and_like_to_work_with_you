@@ -64,3 +64,17 @@ Things I believe to be true, that are the foundation of us working together.
 <b>Empathy</b>. Not just towards those who you work with, but anybody. We’re all humans, and often times, you see things more clearly when you take someone else’s perspective.
 
 <br />
+
+## How to efficiently work and communicate with me
+
+<b>Please don’t hold back</b>: Challenge my ideas and opinions. If you see me behave in a way that isn’t cool or if you notice that I‘m making a bad decision, let me know and explain what I should be doing differently. If you truly liked something I did — I like to hear that, too.
+
+<br />
+
+<b>Mind the channel</b>: I almost always prefer a short written message as a first point of contact. It’s unintrusive and allows me to decide when and how to continue the conversation. You might prefer something else — let me know. As a default, I always try to consider whom I’m communicating with and what their needs and context might be.
+
+<br />
+
+<b>Don’t give clues</b>: I sometimes miss clues, many people do. Don’t give clues. Tell me what you need.
+
+
