@@ -38,3 +38,14 @@ Things I believe to be true, that are the foundation of us working together.
 <b>We support one another</b>: If there is anything that prevents you from doing your best work, let me know. If it’s something related to me, I will try to fix it. If it’s beyond us, we will try and find a solution together. If it’s a personal matter, I will try to cover for you. That also means…
 
 <br />
+
+<b>We win together, we fail together</b>: People who like to claim credit and assign blame are a major turnoff for me.
+
+<br />
+
+## What I value
+
+<b>Context-awareness<b>. Nothing that we do happens in a vacuum. In fact, making the right decisions is foremost about understanding the context we’re operating in. This can be anything from interpersonal to organisation-wide, from understanding customer needs to market forces and policy constraints.
+
+<br />
+
