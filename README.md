@@ -150,4 +150,4 @@ Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Ne
 
 [@patrickbiyaga](https://twitter.com/patrickbiyaga)
 
-[contact@thenavigo.com](contact@thenavigo.com)
+[contact@thenavigo.com](mailto:contact@thenavigo.com)
